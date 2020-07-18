@@ -1,0 +1,130 @@
+.main {
+  background-color: #e4f9f5;
+  padding-top: 100px;
+  position: relative;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.first {
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 70px;
+  color: #6ebfb5;
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  color: #24a19c;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #24a19c;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #6ebfb5;
+}
+
+.profile {
+  padding-top: 60px;
+  padding-bottom: 30px;
+}
+
+.skills {
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+
+.pa {
+  margin-top: 0;
+  margin-bottom: 60px;
+  color: #6ebfb5;
+}
+
+.down {
+  position: absolute;
+  top: 200px;
+  left: 200px;
+}
+
+.top {
+  position: absolute;
+  right: 200px;
+  top: 60px;
+}
+
+.HELP {
+  padding-top: 15px;
+  padding-bottom: 100px;
+}
+
+.message {
+  background-color: #45b29a;
+  font-size: 25px;
+  width: 220px;
+  padding:8px;
+  color: #1b7f69;
+  text-decoration: blink;
+  display: block;
+  margin: auto;
+}
+
+.bottom-container {
+  background-color: #e4f9f5;
+  padding-top: 50px;
+  padding-bottom: 90px;
+  position: relative;
+}
+
+.footer-link1 {
+  color: #6ebfb5;
+  text-decoration: blink;
+  position: relative;
+  right: 210px;
+}
+
+.footer-link2 {
+  color: #6ebfb5;
+  text-decoration: blink;
+}
+
+.footer-link3 {
+  color: #6ebfb5;
+  text-decoration: blink;
+  position: relative;
+  left: 210px;
+}
+
+.copy {
+  color: #6ebfb5;
+  position: relative;
+  top: 40px;
+  margin: 0;
+}
+
+.name {
+  text-decoration: underline;
+}
+
+.symbol {
+  font-size: 10px;
+}
+
+.mes {
+  font-size: 27px;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-width: thick;
+  border-color: grey;
+  width: 10%;
+}
